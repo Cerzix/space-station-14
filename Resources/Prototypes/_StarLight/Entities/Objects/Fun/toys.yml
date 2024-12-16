@@ -80,7 +80,6 @@
   - type: Sprite
     sprite: _Starlight/Objects/Fun/toys.rsi
     state: vika_plush
-    shader: unshaded
   - type: EmitSoundOnUse
     sound:
       path: /Audio/_Starlight/Items/Toys/dogbark_vika.ogg
