@@ -1,9 +1,8 @@
 - files: ["deerplush_nun.ogg"]
   license: "CC0-1.0"
   copyright: "Original sound by Wit Studio - My friend Nokotan"
-  source: "Wit Studio - My friend Nokotan"
 
 - files: ["dogbark_vika.ogg"]
   license: "CC0-1.0"
   copyright: "Original sound by Toby Fox"
-  source: "Undertale - Toby Fox"
+  source: "https://undertale.com/"
