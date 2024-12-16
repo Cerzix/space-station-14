@@ -43,7 +43,6 @@
   - type: Sprite
     sprite: _Starlight/Objects/Fun/toys.rsi
     state: plushie_deer_eyebrows
-    shader: unshaded
   - type: EmitSoundOnUse
     sound:
       path: /Audio/_Starlight/Items/Toys/deerplush_nun.ogg
