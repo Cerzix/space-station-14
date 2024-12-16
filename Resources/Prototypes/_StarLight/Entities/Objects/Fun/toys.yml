@@ -7,11 +7,9 @@
   - type: Item
     size: Small
     sprite: _Starlight/Objects/Fun/toys.rsi
-    state: plushie_deer_no_eyebrows
   - type: Sprite
     sprite: _Starlight/Objects/Fun/toys.rsi
     state: plushie_deer_no_eyebrows
-    shader: unshaded
   - type: EmitSoundOnUse
     sound:
       path: /Audio/_Starlight/Items/Toys/deerplush_nun.ogg
@@ -42,11 +40,9 @@
   - type: Item
     size: Small
     sprite: _Starlight/Objects/Fun/toys.rsi
-    state: plushie_deer_eyebrows
   - type: Sprite
     sprite: _Starlight/Objects/Fun/toys.rsi
     state: plushie_deer_eyebrows
-    shader: unshaded
   - type: EmitSoundOnUse
     sound:
       path: /Audio/_Starlight/Items/Toys/deerplush_nun.ogg
@@ -77,11 +73,9 @@
   - type: Item
     size: Small
     sprite: _Starlight/Objects/Fun/toys.rsi
-    state: vika_plush
   - type: Sprite
     sprite: _Starlight/Objects/Fun/toys.rsi
     state: vika_plush
-    shader: unshaded
   - type: EmitSoundOnUse
     sound:
       path: /Audio/_Starlight/Items/Toys/dogbark_vika.ogg
