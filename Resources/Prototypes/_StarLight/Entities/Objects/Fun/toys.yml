@@ -73,7 +73,6 @@
   - type: Item
     size: Small
     sprite: _Starlight/Objects/Fun/toys.rsi
-    state: vika_plush
   - type: Sprite
     sprite: _Starlight/Objects/Fun/toys.rsi
     state: vika_plush
