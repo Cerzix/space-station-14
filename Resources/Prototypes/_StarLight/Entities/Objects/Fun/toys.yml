@@ -7,7 +7,6 @@
   - type: Item
     size: Small
     sprite: _Starlight/Objects/Fun/toys.rsi
-    state: plushie_deer_no_eyebrows
   - type: Sprite
     sprite: _Starlight/Objects/Fun/toys.rsi
     state: plushie_deer_no_eyebrows
