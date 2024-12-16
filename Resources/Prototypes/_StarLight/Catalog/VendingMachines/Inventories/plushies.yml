@@ -57,7 +57,7 @@
   id: VendorPlushieDeer
   productEntity: DeerPlushie
   cost:
-    NTCredit: 10
+    NTCredit: 16
   categories:
   - SLPlushies
   conditions:
