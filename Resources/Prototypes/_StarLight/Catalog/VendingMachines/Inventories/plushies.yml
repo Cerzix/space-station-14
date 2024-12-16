@@ -68,7 +68,7 @@
   id: VendorPlushieVika
   productEntity: VikaPviPlushie
   cost:
-    NTCredit: 10
+    NTCredit: 16
   categories:
   - SLPlushies
   conditions:
